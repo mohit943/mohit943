@@ -2,8 +2,8 @@ import telebot
 import requests
 
 # Replace with your Telegram bot token and Gemini API key
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-API_KEY = "YOUR_GEMINI_API_KEY"
+BOT_TOKEN = "6726522675:AAERVSnclCTG5qDoSb29ndClzBo0H8g6tHs"
+API_KEY = "AIzaSyAVej47IhyxmM4LZjXOYa_6JzZY7cHo5XU"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
